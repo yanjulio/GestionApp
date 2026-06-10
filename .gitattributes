@@ -1,0 +1,4 @@
+*.deps.json binary
+*.manifest binary
+*.application binary
+*.deploy binary
